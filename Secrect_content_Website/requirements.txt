@@ -1,0 +1,9 @@
+Flask==2.0.3
+flask
+
+pip~=22.0.4
+django-request~=1.6.1
+cryptography~=37.0.4
+lxml~=4.9.1
+setuptools~=58.1.0
+WTForms~=3.0.1
